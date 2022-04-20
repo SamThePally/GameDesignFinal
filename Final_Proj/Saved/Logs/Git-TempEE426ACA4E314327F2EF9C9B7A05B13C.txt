@@ -1,0 +1,2 @@
+Samuel - 
+I replaced the ThirdPerson character with the UE4 character and imported some animations. 
